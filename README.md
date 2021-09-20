@@ -1,3 +1,3 @@
-#Repositorio de Estudos Git
+# Repositorio de Estudos Git
 
 Repositório utilizado para passagem de conhecimento git.
